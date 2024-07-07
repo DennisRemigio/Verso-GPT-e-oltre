@@ -11,4 +11,5 @@ Lezioni in programma (da adattare):
 3. [Building makemore Part 5: Building a WaveNet](https://youtu.be/t3YJ5hKiMQ0)
 4. [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 5. [Let's build the GPT Tokenizer](https://youtu.be/zduSFxRajkE)
+6. [Let's reproduce GPT-2 (124M)](https://youtu.be/l8pRSuU81PU?si=5TDdPC9XpjtFbSzp)
 
