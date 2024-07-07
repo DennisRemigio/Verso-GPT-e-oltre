@@ -1,4 +1,4 @@
-Questa repo si propone come un corso completo, in italiano, sulla creazione di modelli di intelligenza artificiale generativa, inizimente seguendo ed adattando il corso di Andrej Karpathy [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html), poiché estremamente ben fatto, e proseguendo con successivi capitoli sulla generazione di immagini, generazioni di audio ed altro. 
+Questa repo si propone come un corso completo, in italiano, sulla creazione di modelli di intelligenza artificiale generativa, inizialmente seguendo ed adattando il corso di Andrej Karpathy [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html), poiché estremamente ben fatto, e proseguendo con successivi capitoli sulla generazione di immagini, generazioni di audio ed altro. 
 
 Lezioni preparate:  
 1. **Demistificare le reti neurali e la back propagation**: sviluppo di Micrograd
