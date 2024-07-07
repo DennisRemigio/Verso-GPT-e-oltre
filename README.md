@@ -2,8 +2,10 @@ Corso completo, in italiano, sulla creazione di modelli di intelligenza artifici
 
 Lezioni preparate:  
 1. [**Demistificare le reti neurali e la back propagation**: sviluppo di Micrograd](Lezioni/Lezione 1 - Reti Neurali e Back Propagation.ipynb)
-2. [**Introduzione ai modelli di linguaggio: Bigram Language Model**: sviluppo di Makemore (parte 1)](Lezioni/Lezione 2 - Bigram Language Model.ipynb)
-3. **Aumentiamo il contesto: N-Gram Language Model**: sviluppo di Makemore (parte 2)
+2. 1. [**Demistificare le reti neurali e la back propagation**: sviluppo di Micrograd](Lezioni/Lezione%201%20-%20Reti%20Neurali%20e%20Back%20Propagation.ipynb)
+
+3. [**Introduzione ai modelli di linguaggio: Bigram Language Model**: sviluppo di Makemore (parte 1)](Lezioni/Lezione 2 - Bigram Language Model.ipynb)
+4. **Aumentiamo il contesto: N-Gram Language Model**: sviluppo di Makemore (parte 2)
 
 Lezioni in programma (da adattare):  
 1. [Building makemore Part 3: Activations & Gradients, BatchNorm](https://youtu.be/P6sfmUTpUmc)
