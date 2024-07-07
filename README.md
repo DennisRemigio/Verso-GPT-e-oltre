@@ -1,8 +1,8 @@
 Corso completo, in italiano, sulla creazione di modelli di intelligenza artificiale, inizialmente seguendo ed adattando il corso di Andrej Karpathy [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html), poiché estremamente ben fatto, e proseguendo con successivi capitoli sulla generazione di immagini, generazioni di audio ed altro. Il corso prepara principalmente sulla creazione di modelli di intelligenza artificiale generativa di tipo LLM, tuttavia, le competenze saranno facilmente trasferibili ad altri ambiti dell'intelligenza articiale.
 
 Lezioni preparate:  
-1. **Demistificare le reti neurali e la back propagation**: sviluppo di Micrograd
-2. **Introduzione ai modelli di linguaggio: Bigram Language Model**: sviluppo di Makemore (parte 1)
+1. [**Demistificare le reti neurali e la back propagation**: sviluppo di Micrograd](Lezioni/Lezione 1 - Reti Neurali e Back Propagation.ipynb)
+2. [**Introduzione ai modelli di linguaggio: Bigram Language Model**: sviluppo di Makemore (parte 1)](Lezioni/Lezione 2 - Bigram Language Model.ipynb)
 3. **Aumentiamo il contesto: N-Gram Language Model**: sviluppo di Makemore (parte 2)
 
 Lezioni in programma (da adattare):  
